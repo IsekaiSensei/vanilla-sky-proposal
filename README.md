@@ -1,7 +1,5 @@
-# vanilla-sky-proposal
+# Historical proposal
 
-The earlier prototype material was retired from this repository's current branch on October 26, 2026.
+The earlier prototype material was retired from this repository's current branch on October 26, 2026. Older commits, issues and pull requests remain historical records.
 
-[Public crew entry](https://github.com/IsekaiSensei/to-dog-open-crew) · [Private crew basics](https://github.com/IsekaiSensei/to-dog-shared-room) · [Private dialogue archive](https://github.com/IsekaiSensei/to-dog-ops/tree/main/dialogue).
-
-Follow Sensei's current request. Older commits, issues and pull requests remain historical records.
+For current owner and agent routing, use the [working hub](https://github.com/IsekaiSensei/chat.work.open.ai). This proposal does not assign production work or reopen another archived repository.
